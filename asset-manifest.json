@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/rugga-skills/static/css/main.116cc886.css",
+    "main.js": "/rugga-skills/static/js/main.d65a92ca.js",
+    "static/js/453.88b6c827.chunk.js": "/rugga-skills/static/js/453.88b6c827.chunk.js",
+    "static/media/rugthree.jpg": "/rugga-skills/static/media/rugthree.fe9d5c34032b66400763.jpg",
+    "static/media/rug1.jpg": "/rugga-skills/static/media/rug1.312879aa5727be53a6c8.jpg",
+    "index.html": "/rugga-skills/index.html",
+    "main.116cc886.css.map": "/rugga-skills/static/css/main.116cc886.css.map",
+    "main.d65a92ca.js.map": "/rugga-skills/static/js/main.d65a92ca.js.map",
+    "453.88b6c827.chunk.js.map": "/rugga-skills/static/js/453.88b6c827.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.116cc886.css",
+    "static/js/main.d65a92ca.js"
+  ]
+}
